@@ -1,0 +1,1 @@
+# gatsby-algolia-source-plugin
