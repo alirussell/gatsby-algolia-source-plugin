@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-algolia-source-plugin",
+  "version": "1.0.0",
+  "description": "Source documents from algolia for use in a Gatsby site",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali@tray.io",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^3.32.0",
+    "assert": "^1.4.1",
+    "node-fetch": "^2.3.0",
+    "query-string": "^6.2.0"
+  }
+}
